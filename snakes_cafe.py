@@ -12,7 +12,7 @@ print('Appetizers\n'
 '----------\n'
 'Wings\n'
 'Crab Rangoon\n'
-'Sliders\n'
+'Sliders\n\n'
 
 'Entrees\n'
 '-------\n'
